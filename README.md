@@ -65,6 +65,6 @@ INSTALL: python setup.py install or python3 setup.py install
 
 ## Contact Developer
 ```sh
- Telegram: https://t.me/adfhjktewwyjqk
+ Telegram: https://t.me/mainamky1807
 ```
-original : https://github.com/HyukIsBack/KARMA-DDoS
+original : https://github.com/mainamky18072006
